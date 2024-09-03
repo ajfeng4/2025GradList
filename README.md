@@ -6,9 +6,10 @@ Welcome to the **Software Engineering Opportunities** repository! This repositor
 
 | **Company Name** | **Position Title**          | **Location**           | **Type**       | **Application Deadline** | **Link to Apply**  |
 | ---------------- | --------------------------- | ---------------------- | -------------- | ------------------------ | ------------------ |
-| [**Honeywell**](https://www.linkedin.com/company/honeywell/) | Software Engineer Intern    | 🌐 Remote               | Internship     | 🗓️ 10/31/2024             | [**Apply Here**](https://careers.honeywell.com/us/en/job/req460344/Software-Engineer-Computer-Science-Recent-Grad-Full-Time) |
-| [**Company B**](#) | Junior Software Engineer    | 📍 San Francisco, CA    | Full-Time      | 🗓️ 11/15/2024             | [**Apply Here**](#) |
-| [**Company C**](#) | Frontend Developer          | 🌐 Remote               | Internship     | 🗓️ 09/30/2024             | [**Apply Here**](#) |
+| [**Honeywell**](https://www.linkedin.com/company/honeywell/) | Software Engineer & Computer Science - Recent Grad/Full Time | 📍 Multiple               | Full-Time     | 🗓️ Unknown            | [**Apply Here**](https://careers.honeywell.com/us/en/job/req460344/Software-Engineer-Computer-Science-Recent-Grad-Full-Time) |
+| [**Geico**](https://www.linkedin.com/company/geico/) | Software Engineer    | 🌐 Remote    | Full-Time      | 🗓️ Unknown           | [**Apply Here**](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Technology-Development-Program---Software-Engineering_R0051974) |
+| [**JPMorgan**](https://www.linkedin.com/company/jpmorgan/) | Software Engineer          | 🌐 Remote               | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://careers.jpmorgan.com/global/en/students/programs/software-engineer-fulltime) |
+| [**American Express**](https://www.linkedin.com/company/american-express/) | Software Engineer          | 🌐 Remote               | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://aexp.eightfold.ai/careers/job/24562584?domain=aexp.com&utm_source=linkedin) |
 
 To add a new opportunity, simply copy the format above and fill in the details for the new position.
 
