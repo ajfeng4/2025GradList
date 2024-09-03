@@ -6,7 +6,7 @@ Welcome to the **Software Engineering Opportunities** repository! This repositor
 
 | **Company Name** | **Position Title**          | **Location**           | **Type**       | **Application Deadline** | **Link to Apply**  |
 | ---------------- | --------------------------- | ---------------------- | -------------- | ------------------------ | ------------------ |
-| [**Company A**](#) | Software Engineer Intern    | 🌐 Remote               | Internship     | 🗓️ 10/31/2024             | [**Apply Here**](#) |
+| [**Honeywell**](https://www.linkedin.com/company/honeywell/) | Software Engineer Intern    | 🌐 Remote               | Internship     | 🗓️ 10/31/2024             | [**Apply Here**](https://careers.honeywell.com/us/en/job/req460344/Software-Engineer-Computer-Science-Recent-Grad-Full-Time) |
 | [**Company B**](#) | Junior Software Engineer    | 📍 San Francisco, CA    | Full-Time      | 🗓️ 11/15/2024             | [**Apply Here**](#) |
 | [**Company C**](#) | Frontend Developer          | 🌐 Remote               | Internship     | 🗓️ 09/30/2024             | [**Apply Here**](#) |
 
