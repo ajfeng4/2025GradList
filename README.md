@@ -1,6 +1,6 @@
 # 🖥️ Software Engineering Internship and Full-Time Opportunities
 
-Welcome to the **Software Engineering Opportunities** repository! This repository is dedicated to organizing and storing information about various software engineering internships and full-time job openings. The grid format below makes it easy to input and categorize openings efficiently.
+Welcome to the **Software Engineering Opportunities** repository! This repository is dedicated to organizing and storing information about various software engineering internships and full-time job openings. 
 
 ## 📋 Opportunity Grid
 
