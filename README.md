@@ -14,6 +14,8 @@ Welcome to the **Software Engineering Opportunities** repository! This repositor
 | [**Palantir**](https://www.linkedin.com/company/palantir-technologies/) | Forward Deployed Software Engineer, New Grad         | 📍 New York              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049/) |
 | [**Palantir**](https://www.linkedin.com/company/palantir-technologies/) | Software Engineer, New Grad - US Government         | 📍 Washington DC              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/) |
 | [**Deutsche Bank**](https://www.linkedin.com/company/deutsche-bank/) | Deutsche Bank Graduate Program - Technology, Data and Innovation (TDI) - New York 2025         | 📍 New York              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://db.recsolu.com/external/requisitions/Yqt2f29X7hFr8nO6Si_YaQ) |
+| [**ZipRecruiter**](https://www.linkedin.com/company/ziprecruiter/) | Software Engineer - New Grad         | 🌐 Remote              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341?gh_src=89c6ee071us) |
+
 
 
 To add a new opportunity, simply copy the format above and fill in the details for the new position.
