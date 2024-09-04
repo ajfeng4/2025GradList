@@ -16,6 +16,8 @@ Welcome to the **Software Engineering Opportunities** repository! This repositor
 | [**Deutsche Bank**](https://www.linkedin.com/company/deutsche-bank/) | Deutsche Bank Graduate Program - Technology, Data and Innovation (TDI) - New York 2025         | 📍 New York              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://db.recsolu.com/external/requisitions/Yqt2f29X7hFr8nO6Si_YaQ) |
 | [**ZipRecruiter**](https://www.linkedin.com/company/ziprecruiter/) | Software Engineer - New Grad         | 🌐 Remote              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341?gh_src=89c6ee071us) |
 | [**SiliconLabs**](https://www.linkedin.com/company/siliconlabs/) | Software Engineer - New College Graduate         | 📍 Austin,TX              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer---New-College-Graduate_20085) |
+| [**ScaleAI**](https://www.linkedin.com/company/siliconlabs/) | Software Engineer - New Grad         | 📍 San Fransico,CA             | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://job-boards.greenhouse.io/scaleai/jobs/4463083005?gh_src=acad35425us) |
+
 
 
 
