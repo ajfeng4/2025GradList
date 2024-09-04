@@ -15,6 +15,7 @@ Welcome to the **Software Engineering Opportunities** repository! This repositor
 | [**Palantir**](https://www.linkedin.com/company/palantir-technologies/) | Software Engineer, New Grad - US Government         | 📍 Washington DC              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/) |
 | [**Deutsche Bank**](https://www.linkedin.com/company/deutsche-bank/) | Deutsche Bank Graduate Program - Technology, Data and Innovation (TDI) - New York 2025         | 📍 New York              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://db.recsolu.com/external/requisitions/Yqt2f29X7hFr8nO6Si_YaQ) |
 | [**ZipRecruiter**](https://www.linkedin.com/company/ziprecruiter/) | Software Engineer - New Grad         | 🌐 Remote              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341?gh_src=89c6ee071us) |
+| [**SiliconLabs**](https://www.linkedin.com/company/siliconlabs/) | Software Engineer - New College Graduate         | 📍 Austin,TX              | Full-Time     | 🗓️ Unknown             | [**Apply Here**](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer---New-College-Graduate_20085) |
 
 
 
